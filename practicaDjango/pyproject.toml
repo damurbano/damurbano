@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "practicadjango"
+version = "0.1.0"
+description = ""
+authors = ["Damian Urbano <damurbano@inti.gob.ar>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Django = "^5.1"
+
+
+[tool.poetry.dev-dependencies]
+
+
+# Formatters
+black = "*"
+isort = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
