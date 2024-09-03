@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🚧 **En construcción** 🚧  
+¡Pero pronto estará mucho más completo, con varios proyectos interesantes que tengo en mente! 🌱
+
+Por ahora, estoy empezando con este [proyecto](https://github.com/damurbano/scrappy) 🚀, donde podrás ver en qué estoy trabajando y cómo está evolucionando.
+
 <!--
 **damurbano/damurbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
