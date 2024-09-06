@@ -5,16 +5,16 @@ Hi there 👋
 Algunos de ellos son:
 
 * Compresor y mergeador de archivos PDFs usando Django. 📄<br>
-  Una herramienta para comprimir y combinar archivos PDF de manera eficiente.
+  ***Una herramienta para comprimir y combinar archivos PDF de manera eficiente.***
 
 * Parseador y editor de archivos XML. 📄<br>
-  Una aplicación para leer, analizar y modificar archivos XML según necesidades específicas.
+  ***Una aplicación para leer, analizar y modificar archivos XML según necesidades específicas.***
 
 * Una API con FastAPI que permita realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre una base de datos de Pokémon 🕹️.<br>
-  Una API para gestionar información sobre diferentes Pokémon, incluyendo sus atributos y estadísticas.
+  ***Una API para gestionar información sobre diferentes Pokémon, incluyendo sus atributos y estadísticas.***
 
 * Un bot de Instagram 🤖 que automatice ciertas tareas en la plataforma.<br>
-  Automatización de interacciones en Instagram, como seguir y dejar de seguir usuarios, y enviar mensajes.
+  ***Automatización de interacciones en Instagram, como seguir y dejar de seguir usuarios, y enviar mensajes.***
 
 En fin, muchas ideas. Así que me encuentro manos a la obra 💪.
 
