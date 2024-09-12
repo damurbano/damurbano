@@ -18,5 +18,5 @@ Algunos de ellos son:
 
 En fin, muchas ideas. Así que me encuentro manos a la obra 💪.
 
-Por ahora, estoy empezando con este [proyecto](https://github.com/damurbano/scrapers) 🚀, donde podrás ver en qué estoy trabajando y cómo está evolucionando.
+Por ahora, estoy empezando con este [proyecto](https://github.com/damurbano/scrapers) 🚀, un proyecto de web scrapping en el que muestro algunas métricas de un sitio web (aún en construccion!).
 <!-- **damurbano/damurbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started: - 🔭 I’m currently working on ... - 🌱 I’m currently learning ... - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with ... - 💬 Ask me about ... - 📫 How to reach me: ... - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
